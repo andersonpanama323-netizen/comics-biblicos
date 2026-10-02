@@ -1,0 +1,6 @@
+{
+  "name": "Generador de Cómics Bíblicos",
+  "description": "Sistema generador y editor de cómics bíblicos con inteligencia artificial, estilos artísticos personalizables, edición visual de personajes y globos de diálogo, exportación en alta resolución, colaboración en tiempo real y comunidad de fe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

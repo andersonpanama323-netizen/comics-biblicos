@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production Build Output
+build/
+dist/
+dist-ssr/
+*.local
+
+# Vercel & Deployment
+.vercel/
+.vercel_build_output/
+.output/
+
+# Testing & Coverage
+coverage/
+
+# Logs & System
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment Variables
+.env*
+!.env.example
+
+# IDE & Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
